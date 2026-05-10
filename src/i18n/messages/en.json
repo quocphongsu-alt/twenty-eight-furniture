@@ -1,0 +1,33 @@
+{
+  "common": {
+    "brand": "Twenty-eight . Furniture",
+    "nav": {
+      "system": "System",
+      "craft": "Craft",
+      "materials": "Materials"
+    },
+    "cta": "Configure",
+    "footer": "Architectural furniture platform. Precision-crafted configurations for contemporary spaces.",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "heroTitle": "Furniture Systems Designed Around Space",
+    "heroBody": "A modular furniture architecture platform balancing structure, proportion, and material clarity so each system can be configured precisely for the way you live.",
+    "explore": "Explore Systems",
+    "start": "Start Configuring",
+    "systemsTitle": "Systems Overview",
+    "systems": ["Storage Systems", "Workspace Systems", "Wardrobe Systems", "Living Systems", "Dining Systems"],
+    "configTitle": "Configurator Teaser",
+    "configBody": "Prototype dimensions in real time to understand scale, rhythm, and budget before entering the full configurator.",
+    "width": "Width",
+    "height": "Height",
+    "priceNote": "Estimated architecture package",
+    "materialsTitle": "Material Story",
+    "materials": ["Wood", "Metal", "Fabric", "Joinery"],
+    "principlesTitle": "Design Principles",
+    "principles": ["Modularity", "Precision", "Longevity", "Repairability", "Adaptability"],
+    "galleryTitle": "Real Spaces Gallery",
+    "testimonialsTitle": "Testimonials",
+    "faqsTitle": "Frequently Asked Questions"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "common": {
+    "brand": "Twenty-eight . Furniture",
+    "nav": {
+      "system": "Hệ thống",
+      "craft": "Chế tác",
+      "materials": "Vật liệu"
+    },
+    "cta": "Tùy chỉnh",
+    "footer": "Nền tảng nội thất kiến trúc. Cấu hình chính xác cho không gian đương đại.",
+    "rights": "Đã đăng ký bản quyền."
+  },
+  "home": {
+    "heroTitle": "Hệ nội thất được thiết kế xoay quanh không gian",
+    "heroBody": "Nền tảng kiến trúc nội thất mô-đun cân bằng kết cấu, tỷ lệ và ngôn ngữ vật liệu để mỗi hệ có thể cấu hình chính xác theo cách bạn sống.",
+    "explore": "Khám phá hệ",
+    "start": "Bắt đầu cấu hình",
+    "systemsTitle": "Tổng quan hệ",
+    "systems": ["Hệ lưu trữ", "Hệ làm việc", "Hệ tủ áo", "Hệ phòng khách", "Hệ ăn uống"],
+    "configTitle": "Xem trước cấu hình",
+    "configBody": "Thử kích thước theo thời gian thực để hiểu tỷ lệ, nhịp điệu và ngân sách trước khi vào configurator đầy đủ.",
+    "width": "Chiều rộng",
+    "height": "Chiều cao",
+    "priceNote": "Ước tính gói kiến trúc",
+    "materialsTitle": "Câu chuyện vật liệu",
+    "materials": ["Gỗ", "Kim loại", "Vải", "Mộng nối"],
+    "principlesTitle": "Nguyên tắc thiết kế",
+    "principles": ["Mô-đun", "Chính xác", "Bền vững", "Sửa chữa được", "Thích ứng"],
+    "galleryTitle": "Không gian thực tế",
+    "testimonialsTitle": "Đánh giá khách hàng",
+    "faqsTitle": "Câu hỏi thường gặp"
+  }
+}
